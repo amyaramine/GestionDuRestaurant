@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="SpringBatchExample/src/main/java"/>
+	<classpathentry kind="src" path="SpringBatchExample/src/test/java"/>
+	<classpathentry excluding="java/|jaxb/" kind="src" path="SpringBatchExample/target/generated-sources"/>
+	<classpathentry kind="src" path="SpringBatchExample/target/generated-sources/java"/>
+	<classpathentry kind="src" path="SpringBatchExample/target/generated-sources/jaxb"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="SpringBatchExample/target/test-classes"/>
+</classpath>
